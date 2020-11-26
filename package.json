@@ -1,0 +1,30 @@
+{
+  "name": "gulp-for-html",
+  "version": "1.0.0",
+  "description": "SCSS, JS, Images & Browsersync",
+  "main": "gulpfile.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": {
+    "name": "Vagelis Papaioannou",
+    "email": "hello@vagelis.dev",
+    "url": "https://vagelis.dev"
+  },
+  "license": "ISC",
+  "devDependencies": {
+    "browser-sync": "^2.26.10",
+    "browserify": "^16.5.1",
+    "gulp": "^4.0.2",
+    "gulp-imagemin": "*",
+    "gulp-sass": "^4.1.0",
+    "gulp-sourcemaps": "^2.6.5",
+    "gulp-uglify": "^3.0.2",
+    "vinyl-buffer": "^1.0.1",
+    "vinyl-source-stream": "^2.0.0"
+  },
+  "dependencies": {
+    "node-sass": "^5.0.0"
+  }
+}
