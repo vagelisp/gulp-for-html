@@ -6,7 +6,7 @@
 1.  **Getting ready.**
 
     ### Clone repository
-    git clone { repository }
+    git clone https://github.com/vagelisp/gulp-for-html
 
     ### Install node modules using npm
     npm install
